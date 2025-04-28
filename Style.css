@@ -1,0 +1,14 @@
+h1 {
+    color: greenyellow;
+  }
+  /*css for <p> tag */
+  p {
+    text-align: center;             /*alligning the text in center */
+    font-family: monospace;
+    color: rgb(230, 11, 11);      /*adding color to the paragraph tag */
+    font-size: 20px;
+    font-style: italic;
+  }
+  body{
+    background-color: navy;
+  }

@@ -1,0 +1,47 @@
+
+.tomato {
+    background-color: tomato;
+    color: antiquewhite;
+    text-align: center;
+ }
+ 
+ .orange {
+     color: rgb(85, 60, 13);
+     background-color: orange;
+     text-align: center;
+ }
+ 
+ .dogerblue {
+     background-color: dodgerblue;
+     color: aqua;
+     text-align: center;
+ }
+ 
+ .mediumseagreen {
+     background-color: mediumseagreen;
+     color: aliceblue;
+     text-align: center;
+ }
+ 
+ .grey {
+     background-color: grey;
+     text-align: center;
+ }
+ 
+ .slateblue {
+     background-color: slateblue;
+     color: lightblue;
+     text-align: center;
+ }
+ 
+ .violet {
+     background-color: violet;
+     color: #fae0fa;
+     text-align: center;
+     border: dotted
+ }
+ 
+ .lightgrey{
+     background-color: lightgray;
+     text-align: center;
+ }
